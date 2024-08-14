@@ -108,7 +108,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(WXWIN)\include\msvc;$(WXWIN)\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(WXWIN)\include\msvc;F:\apps\c++\STask\STask;$(WXWIN)\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -124,7 +124,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(WXWIN)\include\msvc;$(WXWIN)\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(WXWIN)\include\msvc;F:\apps\c++\STask\STask;$(WXWIN)\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -136,6 +136,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="app.cpp" />
+    <ClCompile Include="MainFrame.cpp" />
+    <ClCompile Include="task.cpp" />
+    <ClCompile Include="TaskHandler.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="app.h" />
+    <ClInclude Include="MainFrame.h" />
+    <ClInclude Include="TaskInfo.h" />
+    <ClInclude Include="task.h" />
+    <ClInclude Include="TaskHandler.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

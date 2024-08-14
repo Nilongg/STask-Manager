@@ -1,3 +1,1 @@
-﻿  app.cpp
-app.obj : error LNK2019: unresolved external symbol "public: __cdecl MainFrame::MainFrame(class wxString const &)" (??0MainFrame@@QEAA@AEBVwxString@@@Z) referenced in function "public: virtual bool __cdecl app::OnInit(void)" (?OnInit@app@@UEAA_NXZ)
-F:\apps\c++\STask\x64\Debug\STask.exe : fatal error LNK1120: 1 unresolved externals
+﻿  STask.vcxproj -> F:\apps\c++\STask\x64\Debug\STask.exe

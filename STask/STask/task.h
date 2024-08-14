@@ -10,16 +10,29 @@ class task
 	int priority;
 	// The name of the task
 	std::string name;
-	
+
 	public:
+		// constructor of the task
 		task();
+		// overloaded constructor of the task
+		task(int id, int priority, std::string name);
+
+		// Getters and setters
+		int getId();
+		void setId(int id);
+		int getPriority();
+		void setPriority(int priority);
+		std::string getName();
+		void setName(std::string name);
 
 
 
 
 
 
-	
+
+
+
+
+
 };
-
-
