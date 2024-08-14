@@ -6,3 +6,4 @@ Upcoming features:
 -Simple and beatiful gui😍
 -One click task ending👌
 -Simple graphs of network's & apps usage
+-And much more when i get more ideas
