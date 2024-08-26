@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\MainFrame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|solutionrelative:STask\\MainFrame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\TaskRetriever.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|solutionrelative:STask\\TaskRetriever.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\TaskHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|solutionrelative:STask\\TaskHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\MainFrame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|solutionrelative:STask\\MainFrame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|solutionrelative:STask\\task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\TaskHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|solutionrelative:STask\\TaskHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|solutionrelative:STask\\app.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66802C68-6D1F-4C2C-ACC4-D324A05C28E7}|STask\\STask.vcxproj|solutionrelative:STask\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskRetriever.cpp",
+              "DocumentMoniker": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\TaskRetriever.cpp",
+              "RelativeDocumentMoniker": "STask\\TaskRetriever.cpp",
+              "ToolTip": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\TaskRetriever.cpp",
+              "RelativeToolTip": "STask\\TaskRetriever.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T10:26:36.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskHandler.cpp",
+              "DocumentMoniker": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\TaskHandler.cpp",
+              "RelativeDocumentMoniker": "STask\\TaskHandler.cpp",
+              "ToolTip": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\TaskHandler.cpp",
+              "RelativeToolTip": "STask\\TaskHandler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T08:37:05.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskHandler.h",
+              "DocumentMoniker": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\TaskHandler.h",
+              "RelativeDocumentMoniker": "STask\\TaskHandler.h",
+              "ToolTip": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\TaskHandler.h",
+              "RelativeToolTip": "STask\\TaskHandler.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T08:37:05.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task.h",
+              "DocumentMoniker": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\Task.h",
+              "RelativeDocumentMoniker": "STask\\Task.h",
+              "ToolTip": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\Task.h",
+              "RelativeToolTip": "STask\\Task.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T08:37:05.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainFrame.h",
+              "DocumentMoniker": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\MainFrame.h",
+              "RelativeDocumentMoniker": "STask\\MainFrame.h",
+              "ToolTip": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\MainFrame.h",
+              "RelativeToolTip": "STask\\MainFrame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T08:37:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainFrame.cpp",
+              "DocumentMoniker": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\MainFrame.cpp",
+              "RelativeDocumentMoniker": "STask\\MainFrame.cpp",
+              "ToolTip": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\MainFrame.cpp",
+              "RelativeToolTip": "STask\\MainFrame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T08:37:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.h",
+              "DocumentMoniker": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\app.h",
+              "RelativeDocumentMoniker": "STask\\app.h",
+              "ToolTip": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\app.h",
+              "RelativeToolTip": "STask\\app.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-15T08:37:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.cpp",
+              "DocumentMoniker": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\app.cpp",
+              "RelativeDocumentMoniker": "STask\\app.cpp",
+              "ToolTip": "C:\\Users\\NipaWin\\Documents\\GitHub\\STask-Manager\\STask\\STask\\app.cpp",
+              "RelativeToolTip": "STask\\app.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T08:37:05.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

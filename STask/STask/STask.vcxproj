@@ -138,6 +138,7 @@
     <ClCompile Include="app.cpp" />
     <ClCompile Include="MainFrame.cpp" />
     <ClCompile Include="TaskHandler.cpp" />
+    <ClCompile Include="TaskRetriever.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="app.h" />

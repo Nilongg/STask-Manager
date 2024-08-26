@@ -5,24 +5,24 @@ struct Task
 	// A simple struct to represent a task
 	
 	private:
-		int id;
+		DWORD id;
 		int priority;
-		std::string name;
+		std::wstring name;
 	
 	public:
 		Task();
-		Task(int id, int priority, std::string name) {
+		Task(DWORD id, std::wstring name, int priority) {
 			this->name = name;
 			this->id = id;
 			this->priority = priority;
 		}
-		int GetID() {
+		DWORD GetID() {
 			return id;
 		}
 		int GetPriority() {
 			return priority;
 		}
-		std::string GetName() {
+		std::wstring GetName() {
 			return name;
 		}
 };

@@ -45,7 +45,7 @@ void TaskHandler::SetPriority(int priority)
 void TaskHandler::ResumeTask()
 {
 	//TODO 
-	//Resumes the suspebded task
+	//Resumes the suspended task
 }
 void TaskHandler::SuspendTask()
 {
